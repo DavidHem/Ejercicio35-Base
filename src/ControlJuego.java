@@ -44,6 +44,17 @@ public class ControlJuego {
 		//Calculo para todas las posiciones que no tienen minas, cuántas minas hay alrededor.
 		
 		//Pongo la puntuación a cero:
+		
+		ArrayList<Integer> posicion = new ArrayList<Integer>();
+		
+		for (int i = 0; i < 100; i++) {
+			posicion.add(i);
+			
+		}
+		
+		
+		
+		
 
 		
 	}
